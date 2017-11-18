@@ -1,0 +1,15 @@
+D:\Visual Studio\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojResolveAssemblyReference.cache
+D:\Visual Studio\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.Form1.resources
+D:\Visual Studio\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+D:\Visual Studio\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.Cache
+D:\Visual Studio\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.ResolveComReference.cache
+D:\Visual Studio\StudentInfoSystem\StudentInfoSystem\bin\Debug\Student Information System.exe.config
+D:\Visual Studio\StudentInfoSystem\StudentInfoSystem\bin\Debug\Student Information System.exe.manifest
+D:\Visual Studio\StudentInfoSystem\StudentInfoSystem\bin\Debug\Student Information System.application
+D:\Visual Studio\StudentInfoSystem\StudentInfoSystem\bin\Debug\Student Information System.exe
+D:\Visual Studio\StudentInfoSystem\StudentInfoSystem\bin\Debug\Student Information System.pdb
+D:\Visual Studio\StudentInfoSystem\StudentInfoSystem\obj\Debug\Student Information System.TrustInfo.xml
+D:\Visual Studio\StudentInfoSystem\StudentInfoSystem\obj\Debug\Student Information System.exe.manifest
+D:\Visual Studio\StudentInfoSystem\StudentInfoSystem\obj\Debug\Student Information System.application
+D:\Visual Studio\StudentInfoSystem\StudentInfoSystem\obj\Debug\Student Information System.exe
+D:\Visual Studio\StudentInfoSystem\StudentInfoSystem\obj\Debug\Student Information System.pdb
